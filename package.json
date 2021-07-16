@@ -76,7 +76,7 @@
         "axios": "0.19.0",
         "body-parser-with-msgpack": "1.17.0",
         "bootstrap": "4.4.1",
-        "chart.js": "2.9.3",
+        "chart.js": "2.9.4",
         "compression": "1.7.2",
         "cookie-parser": "1.4.4",
         "csurf": "1.10.0",
