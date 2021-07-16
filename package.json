@@ -101,7 +101,7 @@
         "jimp": "0.14.0",
         "jquery": "3.4.1",
         "jqueryui": "1.11.1",
-        "lodash": "4.17.15",
+        "lodash": "4.17.21",
         "longjohn": "0.2.12",
         "messagepack": "1.1.10",
         "mkdirp": "0.5.1",
